@@ -7,4 +7,3 @@ public class NewTest {
     void newTest() {
         Assertions.assertTrue(3 > 2);
     }
-}
